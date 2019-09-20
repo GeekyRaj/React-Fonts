@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CD5A4CB9-31C2-46DA-B972-ABF166FB352A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD5A4CB9-31C2-46DA-B972-ABF166FB352A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Font project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Font</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Font with scheme Font and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590653981.52454996</real>
+			<key>timeStoppedRecording</key>
+			<real>590653982.60828304</real>
+			<key>title</key>
+			<string>Building workspace Font with scheme Font and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CD5A4CB9-31C2-46DA-B972-ABF166FB352A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
